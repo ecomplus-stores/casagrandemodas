@@ -5,16 +5,35 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
-    "list": []
+    "title": "Informações",
+    "list": [
+      {
+        "text": "Casa Grande Modas"
+      },
+      {
+        "text": "Condições de Entrega"
+      },
+      {
+        "text": "Como Comprar"
+      },
+      {
+        "text": "Formas de Pagamento"
+      },
+      {
+        "text": "Política de Privacidade"
+      },
+      {
+        "text": "Trocas e Devolução"
+      }
+    ]
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
     "list": []
   },
   "contacts": {
-    "title": "Contatos",
+    "title": "Fale Conosco",
     "phone_wpp": true,
     "socials": true,
     "email": true,
@@ -27,7 +46,7 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
@@ -35,12 +54,12 @@
     "elo": true,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "citibank": false,
     "mais": false,
-    "itau": true
+    "itau": false
   },
   "credits": ""
 }
