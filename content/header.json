@@ -4,7 +4,23 @@
     "link": ""
   },
   "contacts_stripe": {
-    "pages": [],
+    "pages": [
+      {
+        "title": "Minha Conta",
+        "link": "/app/#/account/"
+      },
+      {
+        "title": "Ver Pedidos",
+        "link": "/app/#/account/orders"
+      },
+      {
+        "title": "Como Comprar",
+        "link": "/pages/faq"
+      },
+      {
+        "title": "Loja Física"
+      }
+    ],
     "phone_wpp": true,
     "socials": true
   },
