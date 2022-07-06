@@ -2,5 +2,19 @@
   "title": "Condições de entrega",
   "meta_title": "Condições de entrega",
   "meta_description": "Condições de entrega",
-  "body": "### Lorem ipsum dolor sit amet"
+  "body": "**Envio para Todo Brasil.**\n\nEnvio em até 3 dias úteis após comprovação de pagamento.\n\nFicou com algum dúvida fale conosco pelo whatsapp\n\nNossos contatos:\n\nPor email: **contato@casagrandemodas.com.br**\n\nPor whatsapp : (11) 4582-1187",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
