@@ -1,15 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Enviamos para todo o Brasil"
+    "text": "Enviamos para todo o Brasil",
+    "link": "/pages/entrega"
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcele sem juros",
+    "link": "/pages/pagamentos"
   },
   "exchange": {
     "show": false,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "Não gostou? A primeira troca é gratuita",
+    "link": "/pages/trocas"
   },
   "promo": {
     "show": false,
