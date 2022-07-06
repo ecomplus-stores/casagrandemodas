@@ -1,6 +1,20 @@
 {
-  "title": "Sobre nós",
-  "meta_title": "Sobre nós",
-  "meta_description": "Sobre nós",
-  "body": "### Lorem ipsum dolor sit amet"
+  "title": "CASA GRANDE MODAS ",
+  "meta_title": "CASA GRANDE MODAS ",
+  "meta_description": "CASA GRANDE MODAS ",
+  "body": "Na década de 70, os jovens Airton Alves Rodrigues e Cleonice Borçal, como complemento de renda, vendiam enxovais a domicílio, aos finais de semana e à noite, na cidade de Jundiaí-São Paulo, conquistando seus primeiros clientes. \n\nEm abril de 1987, já casados, pais dos meninos Julio e Alan, inauguraram a Loja Casa Grande. Buscando sempre o melhor atendimento e custo benefício, para os clientes. Dando jus ao nome, a loja teve um crescimento rápido, fruto de muito trabalho e dedicação de seus fundadores.\n\nEm 1993, a Casa Grande mudou para o prédio próprio, na Rua Itirapina, nº1315, na Vila Hortolândia, em Jundiaí/São Paulo, onde está até hoje. Cleonice e Airton sempre priorizaram por produtos de qualidade, incentivando seus colaboradores, visando o melhor atendimento, assim, a Loja Casa Grande adquiriu reconhecimento e referência para as compras de toda a família, em Jundiaí e região.\n\nEm 2001, o filho caçula, Alan Borçal Rodrigues, aos 15 anos de idade, assumiu a empresa, se dedicando muito para oferecer sempre o melhor para cada cliente. Hoje, após 35 anos, a Loja tem reconhecimento local e regional, dando início também às vendas pelo e-commerce.",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
 }
