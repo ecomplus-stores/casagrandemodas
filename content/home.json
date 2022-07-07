@@ -3,6 +3,19 @@
   "meta_description": "",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-07-07T00:06:57.723Z",
+          "end": "",
+          "img": "/img/uploads/slide-inverno.jpg",
+          "mobile_img": "/img/uploads/slideinverno-mobile.jpg"
+        }
+      ]
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
