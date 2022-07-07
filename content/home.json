@@ -22,6 +22,11 @@
       ]
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/faixa.jpg",
+      "mobile_img": "/img/uploads/faixa-mobile.jpg"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "news"
