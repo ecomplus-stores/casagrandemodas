@@ -7,13 +7,15 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros",
-    "link": "/pages/pagamentos"
+    "text": "SUAS COMPRAS NO CARTÃO DE CRÉDITO",
+    "link": "/pages/pagamentos",
+    "title": "PARCELE EM ATÉ 6X SEM JUROS "
   },
   "exchange": {
-    "show": false,
-    "text": "Não gostou? A primeira troca é gratuita",
-    "link": "/pages/trocas"
+    "show": true,
+    "text": "LOJA COM SSL E SISTEMAS DE PROTEÇÃO DE SUAS INFORMAÇÕES.",
+    "link": "/pages/trocas",
+    "title": "COMPRA SEGURA"
   },
   "promo": {
     "show": false,
