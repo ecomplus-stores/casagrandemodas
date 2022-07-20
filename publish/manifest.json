@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.534d3460047a4d0d754ed55fb1b7b6eb.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.0e78ace788d42fc6b65ee5b2978c72de.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.5687ef208bd5f603c030c8df9f645ec1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.523335aa013b982ffab03837d5ef8655.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.ce4baf8d92f6f317cddf1374d517bc61.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Casa Grande Modas - Sua Moda Online | Moda Feminina | Plus Size",
+  "short_name": "Casa Grande Modas ",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Casa Grande Modas | Moda Feminina Online\nEnvio para Todo Brasil . \nModa Feminina | Plus Size ",
+  "background_color": "#ffffff",
+  "theme_color": "#bf0909"
+}
