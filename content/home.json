@@ -46,6 +46,16 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
+      "collection_id": "62d6b79eeb859112168e9001:categories:Calças:/calcas",
+      "sort": "news",
+      "link": "https://casagrandemodas.netlify.app/calcas",
+      "title": "Calças com os Melhores Preços - confira"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
       "collection_id": "62d6b2d1eb859112168e871a:categories:Feminino Plus:/moda-feminina-plus",
       "sort": "news",
       "title": "Moda Plus Size",
