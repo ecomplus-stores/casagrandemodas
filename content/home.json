@@ -17,7 +17,9 @@
           "start": "2022-07-07T00:43:36.679Z",
           "end": "",
           "img": "/img/uploads/slideofertas.jpg",
-          "mobile_img": "/img/uploads/slidieofertasmobile.jpg"
+          "mobile_img": "/img/uploads/slidieofertasmobile.jpg",
+          "link": "https://casagrandemodas.netlify.app/pages/ofertas",
+          "alt": "Aproveite os Descontos em Moda Feminina da Casa Grande Modas "
         }
       ]
     },
@@ -35,6 +37,15 @@
       "type": "dynamic-showcase",
       "load_more": false,
       "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "title": "Aproveite os Descontos Especiais que preparamos para você! ",
+      "link": "https://casagrandemodas.netlify.app/pages/ofertas"
     },
     {
       "type": "collection-shelf",
