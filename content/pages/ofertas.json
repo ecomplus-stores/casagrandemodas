@@ -1,0 +1,25 @@
+{
+  "title": "Ofertas ",
+  "body": "# **Aproveite as Ofertas e Descontos da Casa Grande Modas**",
+  "meta_title": "Ofertas | Descontos | Casa Grande Modas | Moda Feminina",
+  "meta_description": "Aproveite os descontos em Moda Feminina na Casa Grande Modas. Frete Fixo para estado de SP ",
+  "sections": [
+    {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
+      "type": "extra-page",
+      "enabled": true
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
+    }
+  ]
+}
