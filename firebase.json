@@ -1,6 +1,182 @@
 {
   "hosting": {
     "redirects": [
+      {
+        "source": "/categoria/ofertas",
+        "destination": "/pages/ofertas",
+        "type": 301
+      },
+      {
+        "source": "/categoria/feminino",
+        "destination": "/moda-feminina",
+        "type": 301
+      },
+{
+        "source": "/categoria/feminino/jaquetas",
+        "destination": "/jaquetas",
+        "type": 301
+      },
+      {
+        "source": "/categoria/feminino/calcas",
+        "destination": "/calcas",
+        "type": 301
+      },
+{
+        "source": "/categoria/feminino/pijamas",
+        "destination": "/pijamas",
+        "type": 301
+      },
+      {
+        "source": "/categoria/feminino/jaquetas-jeans",
+        "destination": "/jaqueta-jeans",
+        "type": 301
+      },
+{
+        "source": "/categoria/feminino/croppeds",
+        "destination": "/croppeds",
+        "type": 301
+      },
+      {
+        "source": "/categoria/feminino/camisas",
+        "destination": "/camisas",
+        "type": 301
+      },
+{
+        "source": "/categoria/feminino/blusas",
+        "destination": "/blusas",
+        "type": 301
+      },
+      {
+        "source": "/categoria/feminino/conjuntos",
+        "destination": "/conjuntos-femininos",
+        "type": 301
+      },
+{
+        "source": "/categoria/feminino/regatas",
+        "destination": "/regatas",
+        "type": 301
+      },
+      {
+        "source": "/categoria/feminino/blusas-manga-longa",
+        "destination": "/blusa-manga-longa",
+        "type": 301
+      },
+{
+        "source": "/categoria/feminino/shorts",
+        "destination": "/shorts",
+        "type": 301
+      },
+{
+        "source": "/categoria/feminino/coletes",
+        "destination": "/coletes",
+        "type": 301
+      },
+{
+        "source": "/categoria/feminino-plus-size",
+        "destination": "/moda-feminina-plus",
+        "type": 301
+      },
+{
+        "source": "/categoria/feminino-plus-size/blusas",
+        "destination": "/blusas-pluz-size",
+        "type": 301
+      },
+{
+        "source": "/categoria/feminino-plus-size/vestidos",
+        "destination": "/vestidos-plus-size",
+        "type": 301
+      },
+{
+        "source": "/categoria/feminino-plus-size/calcas",
+        "destination": "/calcas-plus-size",
+        "type": 301
+      },
+{
+        "source": "/categoria/feminino-plus-size/jaquetas",
+        "destination": "/jaquetas-plus-size",
+        "type": 301
+      },
+{
+        "source": "/categoria/feminino-plus-size/camisas",
+        "destination": "/camisas-plus-size",
+        "type": 301
+      },
+{
+        "source": "/categoria/feminino-plus-size/coletes",
+        "destination": "/coletes-plus-size",
+        "type": 301
+      },
+{
+        "source": "/categoria/feminino-plus-size/shorts",
+        "destination": "/shorts-plus-size",
+        "type": 301
+      },
+{
+        "source": "/categoria/kimonos",
+        "destination": "/kimonos",
+        "type": 301
+      },
+{
+        "source": "/fale-conosco",
+        "destination": "/pages/contato",
+        "type": 301
+      },
+{
+        "source": "/customer",
+        "destination": "/app/#/account/",
+        "type": 301
+      },
+{
+        "source": "/assistedsale",
+        "destination": "/pages/contato",
+        "type": 301
+      },
+{
+        "source": "/institucional/2460/9426",
+        "destination": "/pages/entrega",
+        "type": 301
+      },
+{
+        "source": "/institucional/2460/9427",
+        "destination": "/pages/faq",
+        "type": 301
+      },
+{
+        "source": "/institucional/2460/10036",
+        "destination": "/pages/pagamentos",
+        "type": 301
+      },
+{
+        "source": "/institucional/2461/9428",
+        "destination": "/pages/privacidade",
+        "type": 301
+      },
+{
+        "source": "/institucional/2461/9431",
+        "destination": "/pages/trocas",
+        "type": 301
+      },
+{
+        "source": "/Company/CommonQuestions",
+        "destination": "/pages/sobre-nos",
+        "type": 301
+      },
+{
+        "source": "/fale-conosco",
+        "destination": "/pages/contato",
+        "type": 301
+      },
+{
+        "source": "/checkout",
+        "destination": "/app/#/cart",
+        "type": 301
+      },
+{
+        "source": "/checkout/Identification",
+        "destination": "/app/#/checkout",
+        "type": 301
+      }
+    
     ],
     "public": "dist",
     "ignore": [
