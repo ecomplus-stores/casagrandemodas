@@ -8,16 +8,10 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2022-08-25T19:50:10.798Z",
-          "end": "",
+          "start": "2022-08-25T20:07:01.453Z",
+          "end": "2022-08-25T20:07:01.500Z",
           "img": "/img/uploads/b365a045-20ad-4844-b51d-fad15a9d91af.jpg",
-          "mobile_img": "/img/uploads/35a09243-c2bd-40e9-893d-df68c9b8bc48.jpg"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/35a09243-c2bd-40e9-893d-df68c9b8bc48.jpg",
-          "mobile_img": "/img/uploads/b365a045-20ad-4844-b51d-fad15a9d91af.jpg"
+          "mobile_img": ""
         }
       ]
     },
