@@ -10,11 +10,13 @@
         {
           "start": "2022-08-25T20:07:01.453Z",
           "img": "/img/uploads/b365a045-20ad-4844-b51d-fad15a9d91af.jpg",
-          "mobile_img": ""
+          "mobile_img": "",
+          "end": "2022-08-29T13:08:11.367Z"
         },
         {
           "start": "2022-08-25T20:08:19.664Z",
-          "img": "/img/uploads/35a09243-c2bd-40e9-893d-df68c9b8bc48.jpg"
+          "img": "/img/uploads/35a09243-c2bd-40e9-893d-df68c9b8bc48.jpg",
+          "end": "2022-08-29T13:08:11.592Z"
         }
       ]
     },
@@ -38,7 +40,7 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "offers",
+      "sort": "news",
       "title": "Aproveite os Descontos Especiais que preparamos para você! ",
       "link": "https://casagrandemodas.com.br/pages/ofertas"
     },
@@ -54,7 +56,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
       "collection_id": "62d6b79eeb859112168e9001:categories:Calças:/calcas",
