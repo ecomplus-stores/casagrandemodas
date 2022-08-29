@@ -46,7 +46,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
       "page": 1,
       "collection_id": "62d6b775eb859112168e8fca:categories:Jaquetas:/jaquetas",
