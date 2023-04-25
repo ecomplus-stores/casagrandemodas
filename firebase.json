@@ -2,181 +2,765 @@
   "hosting": {
     "redirects": [
       {
-        "source": "/categoria/ofertas",
-        "destination": "/pages/ofertas",
-        "type": 301
+        "source":"/categoria/ofertas",
+        "destination":"/pages/ofertas",
+        "type":301
       },
       {
-        "source": "/categoria/feminino",
-        "destination": "/moda-feminina",
-        "type": 301
-      },
-{
-        "source": "/categoria/feminino/jaquetas",
-        "destination": "/jaquetas",
-        "type": 301
+        "source":"/categoria/feminino",
+        "destination":"/moda-feminina",
+        "type":301
       },
       {
-        "source": "/categoria/feminino/calcas",
-        "destination": "/calcas",
-        "type": 301
-      },
-{
-        "source": "/categoria/feminino/pijamas",
-        "destination": "/pijamas",
-        "type": 301
+        "source":"/categoria/feminino/jaquetas",
+        "destination":"/moda-feminina",
+        "type":301
       },
       {
-        "source": "/categoria/feminino/jaquetas-jeans",
-        "destination": "/jaqueta-jeans",
-        "type": 301
-      },
-{
-        "source": "/categoria/feminino/croppeds",
-        "destination": "/croppeds",
-        "type": 301
+        "source":"/categoria/feminino/calcas",
+        "destination":"/moda-feminina",
+        "type":301
       },
       {
-        "source": "/categoria/feminino/camisas",
-        "destination": "/camisas",
-        "type": 301
-      },
-{
-        "source": "/categoria/feminino/blusas",
-        "destination": "/blusas",
-        "type": 301
+        "source":"/categoria/feminino/pijamas",
+        "destination":"/moda-feminina",
+        "type":301
       },
       {
-        "source": "/categoria/feminino/conjuntos",
-        "destination": "/conjuntos-femininos",
-        "type": 301
-      },
-{
-        "source": "/categoria/feminino/regatas",
-        "destination": "/regatas",
-        "type": 301
+        "source":"/categoria/feminino/jaquetas-jeans",
+        "destination":"/moda-feminina",
+        "type":301
       },
       {
-        "source": "/categoria/feminino/blusas-manga-longa",
-        "destination": "/blusa-manga-longa",
-        "type": 301
+        "source":"/categoria/feminino/croppeds",
+        "destination":"/moda-feminina",
+        "type":301
       },
-{
-        "source": "/categoria/feminino/shorts",
-        "destination": "/shorts",
-        "type": 301
+      {
+        "source":"/categoria/feminino/camisas",
+        "destination":"/moda-feminina",
+        "type":301
       },
-{
-        "source": "/categoria/feminino/coletes",
-        "destination": "/coletes",
-        "type": 301
+      {
+        "source":"/categoria/feminino/blusas",
+        "destination":"/moda-feminina",
+        "type":301
       },
-{
-        "source": "/categoria/feminino-plus-size",
-        "destination": "/moda-feminina-plus",
-        "type": 301
+      {
+        "source":"/categoria/feminino/conjuntos",
+        "destination":"/moda-feminina",
+        "type":301
       },
-{
-        "source": "/categoria/feminino-plus-size/blusas",
-        "destination": "/blusas-pluz-size",
-        "type": 301
+      {
+        "source":"/categoria/feminino/regatas",
+        "destination":"/moda-feminina",
+        "type":301
       },
-{
-        "source": "/categoria/feminino-plus-size/vestidos",
-        "destination": "/vestidos-plus-size",
-        "type": 301
+      {
+        "source":"/categoria/feminino/blusas-manga-longa",
+        "destination":"/moda-feminina",
+        "type":301
       },
-{
-        "source": "/categoria/feminino-plus-size/calcas",
-        "destination": "/calcas-plus-size",
-        "type": 301
+      {
+        "source":"/categoria/feminino/shorts",
+        "destination":"/moda-feminina",
+        "type":301
       },
-{
-        "source": "/categoria/feminino-plus-size/jaquetas",
-        "destination": "/jaquetas-plus-size",
-        "type": 301
+      {
+        "source":"/categoria/feminino/coletes",
+        "destination":"/moda-feminina",
+        "type":301
       },
-{
-        "source": "/categoria/feminino-plus-size/camisas",
-        "destination": "/camisas-plus-size",
-        "type": 301
+      {
+        "source":"/categoria/feminino-plus-size",
+        "destination":"/moda-feminina-plus",
+        "type":301
       },
-{
-        "source": "/categoria/feminino-plus-size/coletes",
-        "destination": "/coletes-plus-size",
-        "type": 301
+      {
+        "source":"/categoria/feminino-plus-size/blusas",
+        "destination":"//moda-feminina-plus",
+        "type":301
       },
-{
-        "source": "/categoria/feminino-plus-size/shorts",
-        "destination": "/shorts-plus-size",
-        "type": 301
+      {
+        "source":"/categoria/feminino-plus-size/vestidos",
+        "destination":"//moda-feminina-plus",
+        "type":301
       },
-{
-        "source": "/categoria/kimonos",
-        "destination": "/kimonos",
-        "type": 301
+      {
+        "source":"/categoria/feminino-plus-size/calcas",
+        "destination":"//moda-feminina-plus",
+        "type":301
       },
-{
-        "source": "/fale-conosco",
-        "destination": "/pages/contato",
-        "type": 301
+      {
+        "source":"/categoria/feminino-plus-size/jaquetas",
+        "destination":"//moda-feminina-plus",
+        "type":301
       },
-{
-        "source": "/customer",
-        "destination": "/app/#/account/",
-        "type": 301
+      {
+        "source":"/categoria/feminino-plus-size/camisas",
+        "destination":"//moda-feminina-plus",
+        "type":301
       },
-{
-        "source": "/assistedsale",
-        "destination": "/pages/contato",
-        "type": 301
+      {
+        "source":"/categoria/feminino-plus-size/coletes",
+        "destination":"//moda-feminina-plus",
+        "type":301
       },
-{
-        "source": "/institucional/2460/9426",
-        "destination": "/pages/entrega",
-        "type": 301
+      {
+        "source":"/categoria/feminino-plus-size/shorts",
+        "destination":"//moda-feminina-plus",
+        "type":301
       },
-{
-        "source": "/institucional/2460/9427",
-        "destination": "/pages/faq",
-        "type": 301
+      {
+        "source":"/categoria/kimonos",
+        "destination":"/moda-feminina",
+        "type":301
       },
-{
-        "source": "/institucional/2460/10036",
-        "destination": "/pages/pagamentos",
-        "type": 301
+      {
+        "source":"/fale-conosco",
+        "destination":"/pages/contato",
+        "type":301
       },
-{
-        "source": "/institucional/2461/9428",
-        "destination": "/pages/privacidade",
-        "type": 301
+      {
+        "source":"/customer",
+        "destination":"/app/#/account/",
+        "type":301
       },
-{
-        "source": "/institucional/2461/9431",
-        "destination": "/pages/trocas",
-        "type": 301
+      {
+        "source":"/assistedsale",
+        "destination":"/pages/contato",
+        "type":301
       },
-{
-        "source": "/Company/CommonQuestions",
-        "destination": "/pages/sobre-nos",
-        "type": 301
+      {
+        "source":"/institucional/2460/9426",
+        "destination":"/pages/entrega",
+        "type":301
       },
-{
-        "source": "/fale-conosco",
-        "destination": "/pages/contato",
-        "type": 301
+      {
+        "source":"/institucional/2460/9427",
+        "destination":"/pages/faq",
+        "type":301
       },
-{
-        "source": "/checkout",
-        "destination": "/app/#/cart",
-        "type": 301
+      {
+        "source":"/institucional/2460/10036",
+        "destination":"/pages/pagamentos",
+        "type":301
       },
-{
-        "source": "/checkout/Identification",
-        "destination": "/app/#/checkout",
-        "type": 301
+      {
+        "source":"/institucional/2461/9428",
+        "destination":"/pages/privacidade",
+        "type":301
+      },
+      {
+        "source":"/institucional/2461/9431",
+        "destination":"/pages/trocas",
+        "type":301
+      },
+      {
+        "source":"/Company/CommonQuestions",
+        "destination":"/pages/sobre-nos",
+        "type":301
+      },
+      {
+        "source":"/fale-conosco",
+        "destination":"/pages/contato",
+        "type":301
+      },
+      {
+        "source":"/checkout",
+        "destination":"/app/#/cart",
+        "type":301
+      },
+      {
+        "source":"/checkout/Identification",
+        "destination":"/app/#/checkout",
+        "type":301
+      },
+      {
+        "source":"/esta-loja-e-um-pwa",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/cala-jeans-loopper-cassia",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/cala-capri-tornozelo-sarja-eliza-verde-militar",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/camisa-social-feminina-iris-laranja-cobre",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/jaqueta-matelass-feminina-remy-azul-marinho",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-manga-longa",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-com-decote-v-trabalhado-emlia-azul",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/categoria/feminino/jaquetas",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/jaqueta-matelass-fernanda-preta",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/jaquetas-plus-size",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-canelada-com-manga-trabalhada-em-babado-pregas-plus-size",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/regata-com-recortes-pietra",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/categoria/feminino-plus-size/jaquetas",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/casaco-cropped-tricot-sil-verde-neon",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/cropped-com-glitter-dourado-erika",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/suter-feminino-tricot-eliana",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/cala-bengaline-plus-size-dbora",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/conjuntos-femininos",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/categoria/kimonos",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/tshirt-brasil-poliana-verde-c681",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/categoria/kimonos",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/cala-jogger-com-lycra-bengaline-amarrao-fake-elstico-na-cintura-vinco-bolso-frontal",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/t-shirt-plus-size-com-strass-sofia-preta",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/t-shirt-plus-size-com-strass-sofia-pink",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/conjunto-da-cativa-composto-por-blusa-regata-com-ajuste-na-ala-e-shorts-de-elstico-na-cintura-com-amarrao-fake",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/tshirt-estampa-animal-print-gisele-azul-c957",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-listrada-caroline-c397",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-ravena-verde",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/regata-cacharrel-tricot-jaci",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/t-shirt-plus-size-com-strass-sofia-bord",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-cativa-com-decote-v-e-recortes-canelados",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/conjunto-da-cativa-composto-por-blusa-decote-v-e-cala-pantacourt-com-elstico-na-cintura-e-amarrao-fake",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/conjunto-da-cativa-composto-por-blusa-canelada-com-decote-v-e-shorts-com-elstico-na-cintura-e-bolsos-frontais",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-t-shirt-com-manga-e-estampa-frontal-strass-linda",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-cativa-com-estampa-manga-japonesa-lindssima",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/t-shirt-plus-size-com-strass-sofia-cinza",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/cropped-ciganinha-mel",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-manga-longa-suede-manoela-nude",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/kimonos",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/calcas-plus-size",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/calca-jogger-com-lycra-bengaline-amarrao-fake",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/camiseta-t-shirt-com-estampa-frontal",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/tshirt-estampa-animal-print-gisele-roxo-c680",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/cropped-com-manga-trabalhada-com-bojo-ombro-a-ombro-lindssimo",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-canelada-mel-preta",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/tshirt-animal-print-eva-roxa-c876-c947",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/tshirt-animal-print-eva-preta-c379",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-com-manga-coleo-disney-da-cativa-em-viscolycra-super-moderna",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-plus-size-suede-luiza-bord",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-de-suede-plus-size-luiza",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-cativa-com-estampas-e-manga-lidssima",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/cala-clochard-com-amarrao-botes-fake-e-bolsos-na-parte-frontal",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/regata-canelada-branca-eli-c347",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/conjunto-kimono-shorts",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/t-shirt-plus-size-com-strass-sofia-azul-esverdeada",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-plus-size-suede-luiza-preta",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-com-decote-v-trabalhado-emlia-verde",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/calca-com-cintura-de-elastico-em-suede",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/regata-cacharrel-tricot-jana",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/regata-100-algodo-bsica-da-malwee-super-confortvel",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/categoria/feminino-plus-size/calcas",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/categoria/feminino-plus-size/calcas",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-plus-size-suede-luiza-verde",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/jaqueta-matelass-feminina-remy-cinza",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/categoria/feminino-plus-size/calcas",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-plus-size-suede-luiza-verde",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/jaqueta-matelass-feminina-remy-cinza",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/regata-cacharrel-social",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/cropped-perola-preto",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-cacharrel-olivia-cinza",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/regata-de-visco-ariel-off",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/cropped-glamour-prata-erika",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/ciganinha-estampada-isadora-azul",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-atena-preta",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/tshirt-estampa-animal-print-gisele-vermelha",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/regata-cacharrel-heloisa-ferrugem-c348",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/ciganinha-estampada-isadora-laranja-c803",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/regata-poa-preta-kiara-c248",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-strass-vermelha-aurora",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/conjunto-kimono-shorts-com-bolso",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/camisa-com-botoes-em-viscose-debora",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-social-ingrid-verde",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/tshirt-animal-print-branca-mostarda-c142",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/shorts-malha-estampado-marina-vinho",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/conjunto-kimono-liso-short",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/regata-de-visco-ariel-salmao-c705",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/regata-alcinha-bege-camila",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/cropped-em-lastex-ombro-a-ombro-lindssimo",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/regata-canelada-eli-rosa-c205",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/regata-canelada-verde-maya-c954",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/shorts",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-com-recortes-bruna-lils",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/calca-pantacourt-noah",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/t-shirt-cropped-canelada-com-manga-trabalhada",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-strass-bordo-aurora-c751-c251",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/t-shirt-com-gola-trabalhada-brenda-verde",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/cala-jeans-skinny-marcela-azul",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-cativa-estampa-frontal-gisele-verde",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/regata-cacharrel-tricot-julia",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/camiseta-t-shirt-com-estampa-frontal-lindssima",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-com-recortes-bruna-goiaba",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/regata-cacharrel-heloisa-ferrugem",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/camisa-estampada-iana",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-da-cativa-com-manga-japonesa-estampa-frontal-tecido-viscolycra",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/regata-alcinha-azul-mostarda-camila-c333",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/camisa-listrada-olivia",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/cropped-com-bojo-em-lastex-decote-cigano-super-moderno",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/cropped-com-bojo-canelado-com-detalhe-no-busto-super-moderno",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/camisa-cropped-com-botes-e-bolso-fake",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-canelada-com-manga-trabalhada-em-babado-pregas-super-linda",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/pijamas",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/tshirt-estampa-frontal-cinza-melina",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/cala-jeans-cintura-alta-com-lycra-modelo-skinny-com-cinto-no-removvel-vinco-e-bolso-fake-na-parte-frontal-e-bolso",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/cala-de-sarja-loopper-lara-preta",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/calca-jogger-com-amarrao-fake",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/blusa-estampada-vick-azul-marinho",
+        "destination":"/moda-feminina",
+        "type":301
+      },
+      {
+        "source":"/tshirt-maria-cecilia",
+        "destination":"/moda-feminina",
+        "type":301
       }
-    
     ],
     "public": "dist",
     "ignore": [
