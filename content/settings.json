@@ -1,26 +1,26 @@
 {
   "domain": "casagrandemodas.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#bf0909",
+  "primary_color": "#75da60",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/casagrandemodas",
-  "logo": "/img/uploads/casagrandemodas.1.png",
+  "logo": "/img/uploads/casa-grande-modas-home.jpg",
   "name": "Casa Grande Modas - Sua Moda Online | Moda Feminina | Plus Size",
   "short_name": "Casa Grande Modas ",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "Lato",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/favi.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#000000",
-  "icon": "/img/uploads/casagrandemodas-quadrada.png",
+  "secondary_color": "#6a6a6a",
+  "icon": "/img/uploads/casagrandemodas-app.png",
   "store_id": 51285,
   "description": "Casa Grande Modas | Moda Feminina Online\nEnvio para Todo Brasil . \nModa Feminina | Plus Size ",
-  "large_icon": "/img/uploads/casagrandemodas-quadrada.png"
+  "large_icon": "/img/uploads/casagrandemodas-app.png"
 }
