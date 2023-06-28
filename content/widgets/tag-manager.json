@@ -6,7 +6,8 @@
   "options": {
     "gtmContainerId": "GTM-W9642K9",
     "dataLayerVar": "dataLayer",
-    "partytown": false
+    "partytown": false,
+    "isDebug": true
   },
   "headAppend": "src/append/head",
   "bodyAppend": "src/append/body"
