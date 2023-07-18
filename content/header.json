@@ -26,9 +26,10 @@
   },
   "categories_list": {
     "featured": [
-      "/shoulder-bag?Shoulder bag"
+      "/shoulder-bag?Shoulder bag",
+      "/colecao-inverno?Coleção Inverno"
     ],
-    "random": 2,
+    "random": 1,
     "full_width": true
   },
   "desktop_megamenu": false,
