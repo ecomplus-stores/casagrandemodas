@@ -1,7 +1,7 @@
 {
   "domain": "casagrandemodas.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#475e45",
+  "primary_color": "#da86bc",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/favi.png",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#75da60",
+  "secondary_color": "#da60b6",
   "icon": "/img/uploads/casagrandemodas-app.png",
   "store_id": 51285,
   "description": "Casa Grande Modas | Moda Feminina Online\nEnvio para Todo Brasil . \nModa Feminina | Plus Size ",
