@@ -1,7 +1,7 @@
 {
   "domain": "casagrandemodas.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#de75b9",
+  "primary_color": "#0a0a0a",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
