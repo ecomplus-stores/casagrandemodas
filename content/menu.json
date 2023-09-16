@@ -1,11 +1,5 @@
 {
-  "sort_categories": [
-    "colecao-inverno",
-    "casaco",
-    "blusa-manga-longa",
-    "blazers",
-    "blazers"
-  ],
+  "sort_categories": [],
   "alphabetical_order": true,
   "phone_wpp": true,
   "socials": true
